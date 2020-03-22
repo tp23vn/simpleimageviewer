@@ -75,7 +75,7 @@ namespace ImageViewer
 
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            string message = "Developed by Tai Phung\nEmail: taiphungdinh@gmail.com";
+            string message = "Developed by Tai Phung\nEmail: taiphungdinh@gmail.com\nGithub: www.github.com/tp23vn";
             MessageBox.Show(message, "About", MessageBoxButtons.OK, MessageBoxIcon.Information, MessageBoxDefaultButton.Button1);
         }
     }

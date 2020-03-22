@@ -1,9 +1,0 @@
-F:\WinForm\ImageViewer\ImageViewer\bin\Debug\ImageViewer.exe.config
-F:\WinForm\ImageViewer\ImageViewer\bin\Debug\ImageViewer.exe
-F:\WinForm\ImageViewer\ImageViewer\bin\Debug\ImageViewer.pdb
-F:\WinForm\ImageViewer\ImageViewer\obj\Debug\ImageViewer.csprojResolveAssemblyReference.cache
-F:\WinForm\ImageViewer\ImageViewer\obj\Debug\ImageViewer.PhotoViewer.resources
-F:\WinForm\ImageViewer\ImageViewer\obj\Debug\ImageViewer.Properties.Resources.resources
-F:\WinForm\ImageViewer\ImageViewer\obj\Debug\ImageViewer.csproj.GenerateResource.Cache
-F:\WinForm\ImageViewer\ImageViewer\obj\Debug\ImageViewer.exe
-F:\WinForm\ImageViewer\ImageViewer\obj\Debug\ImageViewer.pdb

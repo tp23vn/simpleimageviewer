@@ -115,7 +115,7 @@
             this.Controls.Add(this.mnsMain);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "PhotoViewer";
-            this.Text = "Simple Photo Viewer by Tai Phung";
+            this.Text = "Simple Photo Viewer";
             this.Load += new System.EventHandler(this.PhotoViewer_Load);
             this.mnsMain.ResumeLayout(false);
             this.mnsMain.PerformLayout();
